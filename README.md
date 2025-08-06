@@ -8,6 +8,7 @@
 ## 🛠️ Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=orange)
+![Figma](https://img.shields.io/badge/Figma-Intermediate-orange?style=for-the-badge&logo=Figma&logoColor=green)
 
 ---
 
