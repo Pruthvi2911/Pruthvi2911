@@ -5,17 +5,16 @@
 Hyderabad, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-bijjarapu29)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pruthvi2911/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/pruthvi_2911/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pruthvibijjarapu2911@gmail.com)
 
 ---
 
 ### About Me
 
-I am a Computer Science and Engineering student specializing in backend architecture, deep reinforcement learning, and systems engineering. My work spans from building responsive frontend interfaces to designing autonomous optimization agents. I focus on developing robust, secure, and algorithmically sound applications.
+I am a Computer Science and Engineering student passionate about software development, backend engineering, and artificial intelligence. I enjoy building full-stack applications, solving algorithmic problems, and exploring machine learning through real-world projects. I'm always looking to learn new technologies and build software that is efficient, scalable, and practical.
 
-*   Currently Exploring: Distributed Systems, Reinforcement Learning, and System Design.
+*   Currently Exploring: Distributed Systems,Backend Techonolgy, Reinforcement Learning, and System Design.
 *   Competitive Programming: Solved 290+ problems on LeetCode and 200+ on GeeksforGeeks and MentorPick.
 
 ---
@@ -80,10 +79,3 @@ Fraud-resistant attendance tracking platform utilizing time-bound, rotating QR t
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-```javascript
-const pruthvi = {
-  currentlyBuilding: "warehouse optimization agents & semantic search services",
-  askMeAbout:        ["reinforcement learning", "backend architecture", "data structures & algorithms"],
-  funFact:           "I trained a warehouse slotting policy before I could parallel park"
-};
