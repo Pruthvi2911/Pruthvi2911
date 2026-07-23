@@ -1,4 +1,8 @@
-![Header](header.svg)
+# Pruthvi Bijjarapu
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%26+RL+Tinkerer" alt="Typing SVG" />
+
+Hyderabad, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pruthvi-bijjarapu29)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pruthvi2911/)
