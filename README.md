@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" alt="Pruthvi B.">
+<a href="#"><img src="header.svg" width="100%" alt="Pruthvi B."></a>
 
 <p align="center">
 <a href="https://portfolio-delta-ruby-59.vercel.app/"><img src="btn-portfolio.svg" width="23%" alt="Portfolio"></a>
@@ -26,8 +26,8 @@ Lately I'm spending my time on RAG, agents, and figuring out how to make AI actu
 
 ## ✦ stuff i work with
 
-<img src="stack.svg" width="100%" alt="Tech stack">
+<a href="#"><img src="stack.svg" width="100%" alt="Tech stack"></a>
 
 <br>
 
-<img src="marquee.svg" width="100%" alt="Thanks for scrolling">
+<a href="#"><img src="marquee.svg" width="100%" alt="Thanks for scrolling"></a>
